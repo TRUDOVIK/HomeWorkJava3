@@ -1,0 +1,8 @@
+{
+            "menu_dishes": [{
+                                    "menu_dish_name": pelmeni,
+                                    "menu_dish_time": 20,
+                                    "menu_dish_price": 59
+                        }
+            ]
+}
